@@ -1,7 +1,7 @@
 # 🌐 UrbanFlow Navigator
 
 A full-stack **React** and **Node.js** web application that provides **real-time navigation** with **weather updates**. Integrated with the **Google Maps API** for route rendering and **OpenWeather API** for current weather data. The app is hosted using **Firebase Hosting** and built with **TypeScript**, **JavaScript**, **HTML**, and **CSS**.
-
+(App will be under constant updates to add additional new features)
 ---
 
 ## ✨ Features
